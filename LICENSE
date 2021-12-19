@@ -1,7 +1,13 @@
 BSD 3-Clause License
 
+muduos - muduo with cross-platform and udp support
 Copyright (c) 2021, Honcy Ye
 All rights reserved.
+
+// Muduo - A reactor-based C++ network library for Linux
+// Copyright (c) 2010, Shuo Chen.  All rights reserved.
+// http://code.google.com/p/muduo/
+
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
